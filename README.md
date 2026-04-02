@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A78FD4&center=true&vCenter=true&width=520&lines=Biomedical+Informatics+%7C+Precision+Medicine;Turning+biological+noise+into+clinical+signal.;Sungkyunkwan+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A78FD4&center=true&vCenter=true&width=520&lines=Biomedical+Informatics+%7C+Precision+Medicine;Turning+noise+into+knowledge)](https://git.io/typing-svg)
 
 <br>
 
