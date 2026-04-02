@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4DAFF,100:A78FD4&height=180&section=header&text=Chaeyoon%20Shin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Biomedical%20Informatics%20%C2%B7%20Precision%20Medicine&descSize=16&descAlignY=65&descFontColor=EDE8FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4DAFF,100:A78FD4&height=160&section=header&text=Chaeyoon%20Shin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-<div align="center"><br>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A78FD4&center=true&vCenter=true&width=520&lines=Biomedical+Informatics+%7C+Precision+Medicine;Turning+biological+noise+into+clinical+signal.;Sungkyunkwan+University)](https://git.io/typing-svg)
+
+<br>
 
 <img src="https://img.shields.io/badge/Python-EDE6FF?style=flat-square&logo=Python&logoColor=7B5EA7"/>
 &nbsp;&nbsp;
